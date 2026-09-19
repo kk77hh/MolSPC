@@ -6,6 +6,8 @@ MolSPC is a graph-language molecular foundation model for de novo generation and
 
 The seven properties used for conditioning and evaluation are **QED, LogP, MW, HBA, HBD, TPSA, and RB** (rotatable bonds). A task can request one property or a `+`-separated combination such as `QED+LogP+TPSA`.
 
+All model training and downstream experiments were performed using two NVIDIA A100 GPUs, each equipped with 80 GB of GPU memory.
+
 
 ## Repository layout
 
