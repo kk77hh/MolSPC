@@ -1,0 +1,1 @@
+{"prediction": "O=C(O)c1ccc(Oc2ccc(Oc3ccccc3)cc2)cc1", "target": "[START_I_SMILES]c1ccccc1[END_I_SMILES]."}
